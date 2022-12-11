@@ -2,8 +2,8 @@
 
 ## Project setup
 
-# install dependencies
+## install dependencies
 $ npm install
 
-# serve with parcel
+## serve with parcel
 $ npx parcel index.html
